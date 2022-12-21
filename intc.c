@@ -43,9 +43,9 @@ int main(int argc, char **argv) {
     }
   }
 
-  filename_buf[i + 1] = 'o';
-  filename_buf[i + 2] = 'u';
-  filename_buf[i + 3] = 't';
+  filename_buf[i + 1] = 'b';
+  filename_buf[i + 2] = 'i';
+  filename_buf[i + 3] = 'n';
   filename_buf[i + 4] = 0;
   printf("%s\n", filename_buf);
 
